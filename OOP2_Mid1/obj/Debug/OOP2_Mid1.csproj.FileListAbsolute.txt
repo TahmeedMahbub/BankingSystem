@@ -1,0 +1,7 @@
+D:\OOP-2\OOP2_Mid1\bin\Debug\OOP2_Mid1.exe.config
+D:\OOP-2\OOP2_Mid1\bin\Debug\OOP2_Mid1.exe
+D:\OOP-2\OOP2_Mid1\bin\Debug\OOP2_Mid1.pdb
+D:\OOP-2\OOP2_Mid1\obj\Debug\OOP2_Mid1.csprojAssemblyReference.cache
+D:\OOP-2\OOP2_Mid1\obj\Debug\OOP2_Mid1.csproj.CoreCompileInputs.cache
+D:\OOP-2\OOP2_Mid1\obj\Debug\OOP2_Mid1.exe
+D:\OOP-2\OOP2_Mid1\obj\Debug\OOP2_Mid1.pdb
